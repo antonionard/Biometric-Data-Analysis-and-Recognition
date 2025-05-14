@@ -41,25 +41,26 @@ The reports are available in the `/reports` folder of the repository.
 
 /BiometricDataAcquisitionAndRecognition
 │
-├── 📁/firmware
+├── 📁/Firmware
 │ ├── voice_acquisition.cpp
 │ ├── ecg_acquisition.cpp
 │ ├── gait_acquisition.cpp
-│ ├── potentiometer_test.cpp
-│ └── ...
-│
-├──📁 /data_sheets
+│ 
+├──📁 /DataSheet
 │ ├── microphone_datasheet.pdf
 │ ├── accelerometer_datasheet.pdf
 │ ├── ecg_detector_datasheet.pdf
 │ ├── potentiometer_datasheet.pdf
 │ └── ...
 │
-├──📁 /matlab_scripts
-│ ├── voice_recognition.m
-│ ├── ecg_analysis.m
-│ ├── gait_analysis.m
-│ └── ...
+├──📁 /Matlab Scripts
+│ ├── 📁/ECG Recognition
+|      ├──ecg.m
+│ ├── 📁/Gait Recognition
+|      ├──gait_side.m
+|      ├──gait_top.m
+│ ├── 📁/Speaker Recognition
+|      ├──speaker_recognition.m
 │
 ├──📁 /reports
 │ ├── voice_recognition_report.pdf
