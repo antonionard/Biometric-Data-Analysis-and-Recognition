@@ -108,7 +108,10 @@ This project is distributed under the MIT License
 
 ## 👤 Authors
 **Antonio Nardone**
+
 **Raffaele Di Benedetto**
+
 **Anna Vittoria Damato**
+
 **Sbiroli Carolina**
 
